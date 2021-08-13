@@ -1,0 +1,16 @@
+1) A função desse site é bem executada?
+R: Sim.
+
+
+2) Você encontrou algum fime interessante que passe nesse teste? Informe.
+R: Sim, Dragon Ball Z: Battle of Gods.
+
+
+3) Você encontrou algum fime interessante que não passe nesse teste? Informe.
+R: Dragon Ball Z: The History of Trunks
+
+
+4) Visualmente o site é fraco. Isso é uma afirmação.
+Diga como o site pode ser melhorado, focando sempre na experiência do usuário.
+R: Poderia, ser muito melhor, exemplo, deixar ele mais "atual", o site em si é muito sem graça, a barra de pesquisa dele poderia ser la em cima,
+o filtro para pesquisar o ano do filme tbm e poderiam dar mais opções de busca, etc.
